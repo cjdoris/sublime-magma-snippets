@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[ideal<${1} | ${2}>]]></content>
+    <tabTrigger>ideal</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

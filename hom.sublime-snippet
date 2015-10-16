@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[hom<${1} -> ${2} | ${3}>]]></content>
+    <tabTrigger>hom</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[printf "$1%o$2%o$3", $4, $5]]></content>
+    <tabTrigger>printf2</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

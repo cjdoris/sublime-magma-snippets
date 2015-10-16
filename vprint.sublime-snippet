@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[vprint ${1:Flag}${2/^.+$/, /g}${2:Level}: $0]]></content>
+    <tabTrigger>vprint</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

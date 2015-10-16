@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[try
+  ${1}
+catch ${2:err}
+  ${3}
+end try;
+]]></content>
+    <tabTrigger>try</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

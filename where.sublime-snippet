@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[where ${1} is ${2}]]></content>
+    <tabTrigger>where</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

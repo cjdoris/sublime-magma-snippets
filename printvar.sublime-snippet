@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[printf "${2:$1 = }%o${3:\n}", ${1:var}$0]]></content>
+    <tabTrigger>printvar</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

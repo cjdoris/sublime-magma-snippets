@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[proc<${1} | ${2}>]]></content>
+    <tabTrigger>proc</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

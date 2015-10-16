@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[[${3:$1} : ${1:x} in ${2:$SELECTION}${4/^.+$/ | /}${4:true}]]]></content>
+    <tabTrigger>seq</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

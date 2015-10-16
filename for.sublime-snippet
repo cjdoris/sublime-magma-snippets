@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[for ${1} in ${2} do
+  ${3}
+end for;
+]]></content>
+    <tabTrigger>for</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

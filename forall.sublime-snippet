@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[forall(${1}){${4:$2} : ${2:$1} in ${3}${5/^.+$/ | /}${5:true}}]]></content>
+    <tabTrigger>forall</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

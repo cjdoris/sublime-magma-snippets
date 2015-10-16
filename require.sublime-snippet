@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[require ${1}: ${2}]]></content>
+    <tabTrigger>require</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[case<${1:true} | $2${2/^.+$/, /}default: $3>$0]]></content>
+    <tabTrigger>casex</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

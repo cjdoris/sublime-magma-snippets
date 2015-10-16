@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[pmap<${1} -> ${2} | ${3}>]]></content>
+    <tabTrigger>pmap</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>
