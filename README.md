@@ -1,4 +1,4 @@
-# Magma (Sublime text package)
+# MagmaSnippets (Sublime text package)
 Collection of Sublime Text snippets for the Magma language. Complements the Magma package.
 
 Magma is a computer algebra system, homepage: http://magma.maths.usyd.edu.au/magma/.
