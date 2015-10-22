@@ -5,9 +5,11 @@ Magma is a computer algebra system, homepage: http://magma.maths.usyd.edu.au/mag
 
 ## Installation
 
-**Package Control (recommended).** Install the Package Control package from https://packagecontrol.io, then use the `Package Control: Install Package` command to install the `MagmaSnippets` package.
+### Package Control (recommended)
+Install the Package Control package from https://packagecontrol.io, then use the `Package Control: Install Package` command to install the `MagmaSnippets` package.
 
-**Manually.** In Sublime click `Preferences` then `Browse Packages...`, then navigate to the `User` directory. Create a new directory there called `MagmaSnippets` and copy the contents of this repository into it.
+### Manually
+In Sublime click `Preferences` then `Browse Packages...`, then navigate to the `User` directory. Create a new directory there called `MagmaSnippets` and copy the contents of this repository into it.
 
 ## Contributions and issues
 
