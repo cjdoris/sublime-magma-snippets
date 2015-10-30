@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[select ${1} else ${2}]]></content>
+    <tabTrigger>select</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>
