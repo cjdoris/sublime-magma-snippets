@@ -1,10 +1,10 @@
 <snippet>
-    <content><![CDATA[if ${1:true} then
-  ${2}
+		<content><![CDATA[if ${1:true} then
+	${2}
 else
-  ${3}
+	${3}
 end if;
 ]]></content>
-    <tabTrigger>ifelse</tabTrigger>
-    <scope>source.magma</scope>
+		<tabTrigger>ifelse</tabTrigger>
+		<scope>source.magma</scope>
 </snippet>

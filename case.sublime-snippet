@@ -1,9 +1,9 @@
 <snippet>
-    <content><![CDATA[case ${1:true}:
+		<content><![CDATA[case ${1:true}:
 when $2:
-  $3
+	$3
 end case;
 ]]></content>
-    <tabTrigger>case</tabTrigger>
-    <scope>source.magma</scope>
+		<tabTrigger>case</tabTrigger>
+		<scope>source.magma</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[procedure ${1:Name}(${2})
-  ${3}
+		<content><![CDATA[procedure ${1:Name}(${2})
+	${3}
 end procedure;
 ]]></content>
-    <tabTrigger>procedure</tabTrigger>
-    <scope>source.magma</scope>
+		<tabTrigger>procedure</tabTrigger>
+		<scope>source.magma</scope>
 </snippet>

@@ -1,9 +1,9 @@
 <snippet>
-    <content><![CDATA[intrinsic ${1:Name}(${2})${4/^.+$/ -> /g}${4:ReturnType}
-  {${5:"}}
-  ${6}
+		<content><![CDATA[intrinsic ${1:Name}(${2})${4/^.+$/ -> /g}${4:ReturnType}
+	{${5:"}}
+	${6}
 end intrinsic;
 ]]></content>
-    <tabTrigger>intrinsic</tabTrigger>
-    <scope>source.magma</scope>
+		<tabTrigger>intrinsic</tabTrigger>
+		<scope>source.magma</scope>
 </snippet>

@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[repeat
-  ${2}
+		<content><![CDATA[repeat
+	${2}
 until ${1:false};
 ]]></content>
-    <tabTrigger>repeat</tabTrigger>
-    <scope>source.magma</scope>
+		<tabTrigger>repeat</tabTrigger>
+		<scope>source.magma</scope>
 </snippet>

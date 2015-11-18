@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[if ${1:false} then
-  ${2}
+		<content><![CDATA[if ${1:false} then
+	${2}
 end if;
 ]]></content>
-    <tabTrigger>if</tabTrigger>
-    <scope>source.magma</scope>
+		<tabTrigger>if</tabTrigger>
+		<scope>source.magma</scope>
 </snippet>
