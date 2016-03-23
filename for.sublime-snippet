@@ -1,7 +1,7 @@
 <snippet>
-		<content><![CDATA[for ${1} in ${2} do
-	${3}
-end for;
+		<content><![CDATA[for ${1:x in X} do
+	${2}
+end for;${3: // ${1}}
 ]]></content>
 		<tabTrigger>for</tabTrigger>
 		<scope>source.magma</scope>
