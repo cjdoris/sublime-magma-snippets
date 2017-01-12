@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[FPAlgebra<${1} | ${2}>${0}]]></content>
+    <tabTrigger>FPAlgebra</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

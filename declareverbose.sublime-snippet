@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[declare verbose ${1:Name}, ${2:1};$0]]></content>
+    <tabTrigger>declareverbose</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

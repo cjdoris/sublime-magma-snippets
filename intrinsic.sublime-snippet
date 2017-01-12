@@ -2,7 +2,7 @@
 		<content><![CDATA[intrinsic ${1:Name}(${2})${4/^.+$/ -> /g}${4:ReturnType}
 	{${5:"}}
 	${6}
-end intrinsic;
+end intrinsic;$0
 ]]></content>
 		<tabTrigger>intrinsic</tabTrigger>
 		<scope>source.magma</scope>

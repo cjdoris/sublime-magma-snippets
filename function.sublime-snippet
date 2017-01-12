@@ -1,5 +1,5 @@
 <snippet>
-		<content><![CDATA[function ${1:Name}(${2})
+		<content><![CDATA[function ${1}(${2})
 	${3}
 end function${1/^.+$/;/}$0
 ]]></content>

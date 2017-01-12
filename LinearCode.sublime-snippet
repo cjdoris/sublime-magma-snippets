@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[LinearCode<${1} | ${2}>${0}]]></content>
+    <tabTrigger>LinearCode</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

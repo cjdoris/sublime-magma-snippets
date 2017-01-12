@@ -2,7 +2,7 @@
 		<content><![CDATA[case ${1:true}:
 when $2:
 	$3
-end case;
+end case;$0
 ]]></content>
 		<tabTrigger>case</tabTrigger>
 		<scope>source.magma</scope>

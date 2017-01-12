@@ -1,7 +1,7 @@
 <snippet>
 		<content><![CDATA[repeat
 	${2}
-until ${1:false};
+until ${1:false};$0
 ]]></content>
 		<tabTrigger>repeat</tabTrigger>
 		<scope>source.magma</scope>

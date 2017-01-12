@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[rep{${3:$1} : ${1} in ${2}${4/^.+$/ | /}${4:true}}]]></content>
+    <content><![CDATA[rep{${3:$1} : ${1} in ${2}${4/^.+$/ | /}${4:true}}$0]]></content>
     <tabTrigger>rep</tabTrigger>
     <scope>source.magma</scope>
 </snippet>

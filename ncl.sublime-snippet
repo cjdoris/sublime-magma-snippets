@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[ncl<${1} | ${2}>${0}]]></content>
+    <tabTrigger>ncl</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[MultiGraph<${1} | ${2}>${0}]]></content>
+    <tabTrigger>MultiGraph</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>
