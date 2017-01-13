@@ -1,0 +1,9 @@
+Thank you for installing the MagmaSnippets package.
+
+* STATEMENTS: There are snippets for most statement keywords, such as "for", "if", "printf", "declare", "try", "function" and so on.
+
+* AGGREGATES: "seq", "set", "mset", "iset", "tup" and "list" give snippets for sequence, set, multiset, indexed set, tuple and list literals.
+
+* LOOPERS: "foreach", "exists", "random" and "rep".
+
+* CONSTRUCTORS: There are snippets for most constructors, try completing "func", "map", "elt", "rec".

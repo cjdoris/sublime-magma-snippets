@@ -1,0 +1,5 @@
+Changes:
+
+* For, when and if now have comments at the end
+
+* Better support function and procedure used as an expression

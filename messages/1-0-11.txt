@@ -1,0 +1,11 @@
+Changes:
+
+* Statements all now end in a semicolon
+
+* Comments removed
+
+* Added jumps to end in all snippets
+
+* Added snippets for specific constructors (ncl<...>, Algebra<...>, etc.)
+
+* Small tweaks

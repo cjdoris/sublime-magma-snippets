@@ -1,0 +1,3 @@
+Changes:
+
+* Snippets are indented with tabs, so that the user's indentation rules are respected
