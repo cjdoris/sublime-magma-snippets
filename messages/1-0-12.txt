@@ -1,0 +1,9 @@
+Changes:
+
+* New 'range' snippet for things like [1..n by 2]
+
+* Sequence, set, etc. snippets now have a universe field
+
+* All keyword statements now have a snippet
+
+* Minor improvements to existing snippets
