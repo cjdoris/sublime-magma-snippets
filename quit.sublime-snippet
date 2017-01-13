@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[quit;$0]]></content>
+    <tabTrigger>quit</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

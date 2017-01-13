@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[iload "${1:FileName}";$0]]></content>
+    <tabTrigger>iload</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

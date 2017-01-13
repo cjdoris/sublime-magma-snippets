@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[fprintf ${1:File}, "$2"${3/^.+$/, /}$3;$0]]></content>
+    <tabTrigger>fprintf</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

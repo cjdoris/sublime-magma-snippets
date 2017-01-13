@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[freeze;$0]]></content>
+    <tabTrigger>freeze</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>

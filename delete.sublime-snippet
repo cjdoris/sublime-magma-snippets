@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[delete ${1:x};$0]]></content>
+    <tabTrigger>delete</tabTrigger>
+    <scope>source.magma</scope>
+</snippet>
